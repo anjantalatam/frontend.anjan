@@ -152,6 +152,7 @@ img {
 }
 
 /* configs */
+/* Removed scroll bar */
 body::-webkit-scrollbar {
   display: none;
 }
